@@ -1,0 +1,8 @@
+{
+  "name": "Car Cricket",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "fd98c3cd"
+}
