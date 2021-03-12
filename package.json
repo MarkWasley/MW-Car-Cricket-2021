@@ -1,8 +1,8 @@
 {
-  "name": "car-cricket",
+  "name": "MW-Car-Cricket-2021",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "author": "Mark Wasley",
+  "homepage": "https://markwasley.net.nz/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -50,5 +50,5 @@
     "tslint": "~6.1.0",
     "typescript": "~4.0.2"
   },
-  "description": "An Ionic project"
+  "description": "Simple app to keep the score in Car Cricket"
 }

@@ -1,6 +1,6 @@
 {
-  "appId": "io.ionic.starter",
-  "appName": "Car Cricket",
+  "appId": "nz.net.markwasley.carcricket",
+  "appName": "MW Car Cricket 2021",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
